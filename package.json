@@ -1,0 +1,14 @@
+{
+  "name": "ashley-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "LeadAmp AI Discord bot (welcome + training DM/link).",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
